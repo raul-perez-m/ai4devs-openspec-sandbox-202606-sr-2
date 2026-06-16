@@ -40,15 +40,19 @@ PARTE B
 
 Evidencias: 
 
-raul2@MSI MINGW64 /c/Projects/training/Nueva carpeta
-$ ls -la
-total 4
-drwxr-xr-x 1 raul2 197611 0 Jun 16 12:21 ./
-drwxr-xr-x 1 raul2 197611 0 Jun 15 11:02 ../
-drwxr-xr-x 1 raul2 197611 0 Jun 16 12:21 .claude/
-drwxr-xr-x 1 raul2 197611 0 Jun 16 12:21 openspec/
+raul2@MSI MINGW64 /c/Projects/Lidr/ai4devs-openspec-sandbox-202606-sr-2 (alumno/raul-perez)
+$ ls -R openspec/
+openspec/:
+changes/  config.yaml  specs/
 
-raul2@MSI MINGW64 /c/Projects/training/Nueva carpeta
+openspec/changes:
+archive/
+
+openspec/changes/archive:
+
+openspec/specs:
+
+raul2@MSI MINGW64 /c/Projects/Lidr/ai4devs-openspec-sandbox-202606-sr-2 (alumno/raul-perez)
 $ openspec --version
 1.4.1
 
